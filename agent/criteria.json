@@ -1,0 +1,29 @@
+{
+  "owner": "hewsonj0624@gmail.com",
+  "roles": [
+    {
+      "id": "senior_pm",
+      "title": "Senior Product Manager",
+      "aliases": ["Sr. Product Manager", "Senior PM", "Staff Product Manager", "Group Product Manager", "Lead Product Manager"],
+      "required_spaces": ["fraud", "payments", "startup"],
+      "space_match": "any"
+    },
+    {
+      "id": "chief_of_staff",
+      "title": "Chief of Staff",
+      "aliases": ["Chief of Staff to CEO", "Chief of Staff to Founder", "Chief of Staff, Startup"],
+      "required_spaces": ["startup"],
+      "space_match": "any"
+    }
+  ],
+  "spaces": {
+    "fraud": ["fraud", "trust & safety", "trust and safety", "risk", "identity verification", "chargeback"],
+    "payments": ["payments", "fintech", "banking infrastructure", "money movement", "checkout"],
+    "startup": ["startup", "seed stage", "series a", "series b", "series c", "high-growth", "early-stage"]
+  },
+  "locations": {
+    "include": ["San Francisco", "SF Bay Area", "Bay Area", "New York", "NYC", "Seattle"],
+    "remote_policy": "Include remote-eligible roles only if the company is HQ'd in or explicitly allows hiring in SF, NYC, or Seattle."
+  },
+  "exclude_keywords": ["intern", "internship", "junior", "associate product manager", "entry level"]
+}
