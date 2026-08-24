@@ -28,6 +28,10 @@
     { "url": "https://job-boards.greenhouse.io/lithic/jobs/5620501004", "title": "Senior Product Manager", "company": "Lithic", "first_seen": "2026-08-17" },
     { "url": "https://jobs.techstars.com/companies/alloy-2-bb488319-20df-4a72-910e-ea14dfc26a3e/jobs/57797520-senior-product-manager", "title": "Senior Product Manager", "company": "Alloy", "first_seen": "2026-08-17" },
     { "url": "https://openai.com/careers/chief-of-staff-to-the-cro-san-francisco/", "title": "Chief of Staff to the CRO", "company": "OpenAI", "first_seen": "2026-08-17" },
-    { "url": "https://job-boards.greenhouse.io/notion/jobs/6653104003", "title": "Chief of Staff, People", "company": "Notion", "first_seen": "2026-08-17" }
+    { "url": "https://job-boards.greenhouse.io/notion/jobs/6653104003", "title": "Chief of Staff, People", "company": "Notion", "first_seen": "2026-08-17" },
+    { "url": "https://stripe.com/careers/listing/staff-product-manager-payments/7819059", "title": "Staff Product Manager, Payments", "company": "Stripe", "first_seen": "2026-08-24" },
+    { "url": "https://job-boards.greenhouse.io/Chime/jobs/8393494002", "title": "Group Product Manager, Platform", "company": "Chime", "first_seen": "2026-08-24" },
+    { "url": "https://jobs.ashbyhq.com/casap/af7ecd72-aeeb-414f-b1bb-6376578e3788", "title": "Chief of Staff, CEO", "company": "Casap", "first_seen": "2026-08-24" },
+    { "url": "https://jobs.ashbyhq.com/exa/9117a53a-799b-4c05-8179-42baf0f80cfc", "title": "Chief of Staff", "company": "Exa", "first_seen": "2026-08-24" }
   ]
 }
